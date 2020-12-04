@@ -1,0 +1,6 @@
+[submodule "fs.utils"]
+	path = fs.utils
+	url = https://github.com/xizher/fs.utils.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/xizher/postgresql.git
