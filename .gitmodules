@@ -4,3 +4,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/xizher/postgresql.git
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/xizher/mongodb.git
